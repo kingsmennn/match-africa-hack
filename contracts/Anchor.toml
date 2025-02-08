@@ -5,13 +5,13 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-match_solana_contract = "AovyJcj7yeBXRqDcGtCZKeKv7NP5JVjtpgW8U7jcYdfk"
+match_solana_contract = "Gde2V9pUafhQSDMYNMhtGTjTDDWBvD9DZH251Hq26wgL"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Devnet"
+cluster = "Localnet"
 wallet = "/Users/dave/.config/solana/id.json"
 
 [scripts]

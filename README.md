@@ -69,8 +69,8 @@ Our solution is evaluated based on the following criteria:
 1. **Clone the Repository:**
 
    ```bash
-   git https://github.com/Kingsmen-hackers/match-app
-   cd match-app/frontend
+   git https://github.com/kingsmennn/match-africa-hack
+   cd match-africa-hack/frontend
    ```
 
 2. **Install Dependencies:**

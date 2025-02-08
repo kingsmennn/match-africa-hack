@@ -6,11 +6,11 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Kingsmen-hackers/match-app
+   git https://github.com/kingsmennn/match-africa-hack
    ```
 2. Install dependencies:
    ```
-   cd match-app/backend
+   cd match-africa-hack/backend
    yarn
    ```
 3. Configure X Request API credentials:

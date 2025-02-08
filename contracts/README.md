@@ -20,8 +20,8 @@ To work with this project, you'll need the following tools installed:
 Clone this repository and install all required dependencies using Yarn:
 
 ```bash
-git clone https://github.com/Kingsmen-hackers/match-app
-cd match-app/contracts
+git https://github.com/kingsmennn/match-africa-hack
+cd match-africa-hack/contracts
 yarn install
 ```
 ````
